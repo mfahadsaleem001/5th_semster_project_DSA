@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 import requests
 
-API_KEY = "696fdb048b444264a0d134658260507"
+API_KEY = "696fdb0**************************"
 
 class weather:
     def __init__(self, city, date, humidity, temp, wind):
